@@ -128,7 +128,9 @@ npm publish --access public
 # 11. Kiểm tra package online
 
 Package sẽ xuất hiện tại:
-
+```bash id="8m6r3x1"
+npm i @tylaujjapan0/memcon
+```
 [npmjs memcon package](https://www.npmjs.com/package/@tylaujjapan0/memcon?utm_source=chatgpt.com)
 
 ---
