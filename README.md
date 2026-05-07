@@ -1,14 +1,17 @@
 # Tạo package `memcon` từ đầu → publish npm → upload GitHub → cài bằng 1 lệnh
 ---
 
-## RUN:
-```bash id="i0r4q78"
+---
+# RUN:
+```bash id="i0r4qk"
 curl -sL https://raw.githubusercontent.com/tylaujjapan0/memcon/main/install.sh | bash
+```
+---
+```bash id="i0r4q7"
+npm install -g @tylaujjapan0/memcon
+```
 
 ---
-```bash id="i0r4q789"
-npm install -g @tylaujjapan0/memcon
-
 # 1. Cài NodeJS + npm
 
 ```bash id="i0r4q7"
