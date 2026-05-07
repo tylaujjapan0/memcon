@@ -1,0 +1,9 @@
+{
+  "name": "@tylaujjapan0/memcon",
+  "version": "1.0.1",
+  "description": "Simple RAM monitor for Docker",
+  "bin": {
+    "memcon": "index.js"
+  },
+  "preferGlobal": true
+}
